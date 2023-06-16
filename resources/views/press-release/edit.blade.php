@@ -27,8 +27,6 @@
                         @role('Admin')
                             <div class="d-flex flex-column w-50 justify-content-end pt-3">
                                 <div class="text-end">
-
-                                    
                                     <label>Editor:</label>
                                     <span class="text-primary ont-weight-bold text-end"> {{$press_release->editor->name}}</span>
                                 </div>
